@@ -17,8 +17,7 @@ Product research project exploring why students and job seekers in India prefer 
 
 ---
 ## 📊 Milestone 3 — From Insight to Solution
-
-[![Milestone 3 Presentation](./Milestone3_Slide_01.png)](./Milestone3_Voice_Input_Adoption_Deck.pdf)**[Milestone3_Voice_Input_Adoption_Deck.pdf](https://github.com/user-attachments/files/33030105/Milestone3_Voice_Input_Adoption_Deck.pdf)
+**[Milestone3_Voice_Input_Adoption_Deck.pdf](https://github.com/user-attachments/files/33030105/Milestone3_Voice_Input_Adoption_Deck.pdf)
 
 **Click the presentation cover above to view the complete 13-slide deck.
 
@@ -648,14 +647,54 @@ Run Experiment
         ↓
 Iterate
 
-## 🔗 Connect With Me
+---
 
-### LinkedIn
+# 🎞️ Milestone 3 Presentation
 
-[Simran's LinkedIn Profile](https://www.linkedin.com/in/simran-45168a2a6?utm_source=chatgpt.com)
+## Presentation Preview
+
+[![Milestone 3 Presentation](./Milestone3_Slide_01.png)](./Milestone3_Voice_Input_Adoption_Deck.pdf)
+
+**Click the presentation cover above to view the complete Milestone 3 presentation.**
+
+### 📄 Full Presentation
+
+[👉 View Milestone 3 Presentation](./Milestone3_Voice_Input_Adoption_Deck.pdf)
+
+---
+
+# 👩‍💻 About Me
+
+**Simran**  
+Product Management Fellowship — Cohort 52
+
+This project is part of my Product Management Fellowship journey, where I am developing skills in:
+
+- User Research
+- Problem Discovery
+- Product Thinking
+- Solution Design
+- Product Strategy
+- Metrics & KPIs
+- Experimentation
+- Data-driven Decision Making
+
+---
+
+# 🔗 Connect With Me
+
+## LinkedIn
+
+[👉 Visit My LinkedIn Profile](www.linkedin.com/in/simran-45168a2a6)
 
 ![LinkedIn QR Code](./LinkedIn_QR_Simran.png)
 
 ---
 
-⭐ Thank you for visiting this project!
+## 💻 GitHub
+
+[👉 Visit My GitHub Profile](https://github.com/Simran0913)
+
+---
+
+⭐ **Thank you for visiting my project!**
