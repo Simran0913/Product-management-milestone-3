@@ -647,28 +647,7 @@ Run Experiment
         ↓
 Iterate
 
----
-
-# 🎞️ Milestone 3 Presentation
-
-## Presentation Preview
-
-[![Milestone 3 Presentation](./Milestone3_Slide_01.png)](./Milestone3_Voice_Input_Adoption_Deck.pdf)
-
-**Click the presentation cover above to view the complete Milestone 3 presentation.**
-
-### 📄 Full Presentation
-
-[👉 View Milestone 3 Presentation](./Milestone3_Voice_Input_Adoption_Deck.pdf)
-
----
-
-# 👩‍💻 About Me
-
-**Simran**  
-Product Management Fellowship — Cohort 52
-
-This project is part of my Product Management Fellowship journey, where I am developing skills in:
+nagement Fellowship journey, where I am developing skills in:
 
 - User Research
 - Problem Discovery
@@ -680,21 +659,6 @@ This project is part of my Product Management Fellowship journey, where I am dev
 - Data-driven Decision Making
 
 ---
+🔗 **Connect with me on LinkedIn:**  
+[LinkedIn Profile](www.linkedin.com/in/simran-45168a2a6)
 
-# 🔗 Connect With Me
-
-## LinkedIn
-
-[👉 Visit My LinkedIn Profile](www.linkedin.com/in/simran-45168a2a6)
-
-![LinkedIn QR Code](./LinkedIn_QR_Simran.png)
-
----
-
-## 💻 GitHub
-
-[👉 Visit My GitHub Profile](https://github.com/Simran0913)
-
----
-
-⭐ **Thank you for visiting my project!**
